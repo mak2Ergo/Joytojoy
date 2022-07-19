@@ -1,6 +1,6 @@
 # Boitier à réaliser avec une imprimante 3D
 
-Joytostick : avec un bouton (reset position)
+Joytostick : avec un bouton (reset position)  
 Joytomouse : avec deux boutons (clic droit et gauche)
 
 # 2 versions pour s’adapter au diamètre de chaque joystick : 
