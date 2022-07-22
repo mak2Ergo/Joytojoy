@@ -7,6 +7,9 @@ Two versions :
 
 ## Joytostick
 To use the power wheelchair controller as a joystick (right or left stick) with a video game console via a dedicated interface (XBox Adaptive Controller  Microsoft, Hori flex)
+
+<img src="https://github.com/mak2Ergo/Joytojoy/blob/69946dcba7083849e48d5e35c0fce1bb8aebfe88/RESSOURCES_IMAGES/1080.jpg" width="600">
+
 ## Joytomouse
 To use the power wheelchair controller as a mouse for PC, smartphone...
 
