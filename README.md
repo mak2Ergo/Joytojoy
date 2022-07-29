@@ -13,3 +13,19 @@ To use the power wheelchair controller as a joystick (right or left stick) with 
 ## Joytomouse
 To use the power wheelchair controller as a mouse for PC, smartphone...
 
+## License
+
+### Creative Commons Attribution-NonCommercial-ShareAlike (CC-BY-NC-SA)
+
+Unless otherwise noted attached to a file, almost all parts of this work, code files, design files, and documentation are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
+
+<img src="https://github.com/mak2Ergo/Joytojoy/blob/35ad6d91f08f0f3141aa4c352690758376660159/RESSOURCES_IMAGES/CCBYNCSA_88x31.png">
+
+This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. 
+
+Copyright (c) 2022 Mak2Ergo
+
+
+
+
+
