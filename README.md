@@ -1,5 +1,5 @@
 # Joytojoy 
-Joytojoy is an open source HID (human interface device) that allows power wheelchairs users to use their wheelchair's controller to play on a video game console or control a smartphone, PC...
+Joytojoy is a versatile HID (human interface device) that allows power wheelchairs users to use their wheelchair's controller to play on a video game console or control a smartphone, PC...
 Its principle of operation is quite simple. It is a box connected by an USB cable to the device to be controlled which is fitted in place of the standard wheelchair's joystick knob. Joystick movements are detected by a motion sensor (an inertial measurement unit) and translated into a signal for each system to be controlled. 
 
 <img src="https://github.com/mak2Ergo/Joytojoy/blob/23f819e93c3e9cbcb9d7eeaaae773f0ff7e2927d/RESSOURCES_IMAGES/Joytomouse.png" width="600">
