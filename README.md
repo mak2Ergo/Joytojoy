@@ -6,12 +6,17 @@ Its principle of operation is quite simple. It is a box connected by an USB cabl
 Two versions : 
 
 ## Joytostick
+
+<img src="https://github.com/mak2Ergo/Joytojoy/blob/f70f8de4c5b42242161ef68f5d7bb399dfd070fd/RESSOURCES_IMAGES/JotostickTop.jpg" width="600">
+
 To use the power wheelchair controller as a joystick (right or left stick) with a video game console via a dedicated interface (work with XBox Adaptive Controller from Microsoft, have to test it on Hori flex)
 
 <img src="https://github.com/mak2Ergo/Joytojoy/blob/69946dcba7083849e48d5e35c0fce1bb8aebfe88/RESSOURCES_IMAGES/1080.jpg" width="600">
 
 ## Joytomouse
 To use the power wheelchair controller as a mouse for PC, smartphone...
+
+<img src="https://github.com/mak2Ergo/Joytojoy/blob/f70f8de4c5b42242161ef68f5d7bb399dfd070fd/RESSOURCES_IMAGES/Joytomouse.jpg" width="600">
 
 ## License
 
